@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula17Teste.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula17Teste.genruntimeconfig.cache
